@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It is an SR flip-flop using a D flip-flop.
 
 ## How to test
 
-Explain how to use your project
+Use a truth table to verify your answers.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+2 LED displays
